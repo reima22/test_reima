@@ -1,0 +1,12 @@
+﻿  textdata_player.cpp
+  life.cpp
+  bullet_UI.cpp
+c:\users\student\desktop\c++制作\cpp_2dstg_3\cpp_2dstg\bullet_ui.cpp(37): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\desktop\c++制作\cpp_2dstg_3\cpp_2dstg\bullet_ui.cpp(38): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+c:\users\student\desktop\c++制作\cpp_2dstg_3\cpp_2dstg\bullet_ui.cpp(39): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+  コードを生成中...
+  スキップ中... (関連する変更は検出されませんでした)
+  game.cpp
+  bullet.cpp
+  Cpp_2DSTG.vcxproj -> C:\Users\student\Desktop\C++制作\Cpp_2DSTG_3\Cpp_2DSTG.exe
+  Cpp_2DSTG.vcxproj -> C:\Users\student\Desktop\C++制作\Cpp_2DSTG_3\Cpp_2DSTG.pdb (Full PDB)
